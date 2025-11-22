@@ -2,7 +2,6 @@
 
 A modern, fully responsive landing page for a fictional AI-powered productivity tool called SynapseFlow. Built with pure HTML and CSS - no JavaScript required!
 
-https://via.placeholder.com/1200x600/4361ee/ffffff?text=SynapseFlow+-+AI+Productivity+Platform
 
 # 🚀 Features
 
